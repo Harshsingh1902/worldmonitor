@@ -592,13 +592,13 @@ For commercial licensing, contact the maintainer at the [GitHub repository](http
 
 **No warranty** — the software is provided "as is" without warranty of any kind.
 
-Copyright (C) 2024-2026 Elie Habib. All rights reserved.
+Copyright (C) 2024-2026 Harsh Singh. All rights reserved.
 
 ---
 
 ## Author
 
-**Elie Habib** — [GitHub](https://github.com/koala73)
+**Harsh Singh** — [GitHub](https://github.com/koala73)
 
 ---
 
